@@ -29,4 +29,6 @@ Session 5 - NLP in Rwanda - Not responsible!
     - [ ] Session 3
     - [ ] Session 4
 
+* Teach the course....
+
 
