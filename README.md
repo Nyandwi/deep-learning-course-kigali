@@ -1,4 +1,4 @@
-# Introduction to Deep Learning
+# Introduction to Deep Learning at Kigali
 
 Deep learning is a subfield of machine learning that is concerned with the study of artificial neural networks. Deep learning has several applications in various fields such as medical diagnosis, self-driving cars, machine translation, fintech, etc..
 
