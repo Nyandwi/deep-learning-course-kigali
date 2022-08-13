@@ -10,7 +10,7 @@ Instructed by Gedeon Muhawenayo and Jean de Dieu Nyandwi.
 
 | Sessions                 | Materials              |             
 | -----------              | -----------            |
-| 1. Introduction and Applications|[[slides]]()[[notebook]]() | 
+| 1. Introduction and Applications|[[slides]](materials/slides/sess1-intro-to-dl.pdf)[[colab]](https://colab.research.google.com/drive/1oHFyfJjPvlb7fbiKCi54_F4IuEKFE_eC?usp=sharing) | 
 | 2. Deep Learning for NLP | TBD |  
 | 3. Transformers          |TBD  |
 | 4. Teaching Machines to Perceive the World|TBD |
