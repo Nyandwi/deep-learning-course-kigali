@@ -8,13 +8,13 @@ Instructed by Gedeon Muhawenayo and Jean de Dieu Nyandwi.
 
 ## Course Outlines and Materials
 
-| Sessions                 | Materials              | Further Resources|                   
-| -----------              | -----------            |-------------------|
-| 1. Intro to Deep Learning|[slides]() [notebook]()  |                   |
-| 2. Deep Learning for NLP | [slides]() [notebook]() |                   |
-| 3. Transformers          |[slides]() [notebook]()  |                   |
-| 4. Teaching Machines to Perceive the World|[slides]() [notebook]() |               |
-| 5. NLP in Rwanda|- |               |
+| Sessions                 | Materials              |             
+| -----------              | -----------            |
+| 1. Introduction and Applications|[[slides]]()[[notebook]]() | 
+| 2. Deep Learning for NLP | TBD |  
+| 3. Transformers          |TBD  |
+| 4. Teaching Machines to Perceive the World|TBD |
+| 5. NLP in Rwanda | TBD |
 
 ## Acknowledgement
 
