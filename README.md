@@ -11,7 +11,7 @@ Instructed by Gedeon Muhawenayo and Jean de Dieu Nyandwi.
 | Sessions                 | Materials              |             
 | -----------              | -----------            |
 | 1. Introduction and Applications|[[slides]](./materials/slides/sess1-intro-to-dl.pdf)[[colab]](https://colab.research.google.com/drive/1oHFyfJjPvlb7fbiKCi54_F4IuEKFE_eC?usp=sharing)| 
-| 2. DL Introduction & Recap | [[slides]](./materials/slides/sess2-dl-recap.pdf)[[colab]](https://colab.research.google.com/drive/1JIGWzdnYoDrzKpTDMt6Q4U1XBzrP7kkn?usp=sharing) |
+| 2. DL Introduction & Application - Recap | [[slides]](./materials/slides/sess2-dl-recap.pdf)[[colab]](https://colab.research.google.com/drive/1JIGWzdnYoDrzKpTDMt6Q4U1XBzrP7kkn?usp=sharing) |
 | 3. Introduction to NLPs and Recurrent Networks |TBD  |  
 | 4. Transformers          |TBD  |
 | 5. Teaching Machines to Perceive the World|TBD |
