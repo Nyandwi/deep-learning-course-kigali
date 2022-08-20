@@ -10,8 +10,8 @@ Instructed by Gedeon Muhawenayo and Jean de Dieu Nyandwi.
 
 | Sessions                 | Materials              |             
 | -----------              | -----------            |
-| 1. Introduction and Applications|[[slides]](materials/slides/sess1-intro-to-dl.pdf)[[colab]](https://colab.research.google.com/drive/1oHFyfJjPvlb7fbiKCi54_F4IuEKFE_eC?usp=sharing) | 
-| 2. Deep Learning for NLP | TBD |  
+| 1. Introduction and Applications|[[slides]](materials/slides/sess1-intro-to-dl.pdf)[[colab]](https://colab.research.google.com/drive/1oHFyfJjPvlb7fbiKCi54_F4IuEKFE_eC?usp=sharing)| 
+| 2. Session 1 Recap | [[slides]](https://docs.google.com/presentation/d/1dcsdoM95ShTpAZ-PQebd57oRyuHLCSFKt5n3c8JlWSw/edit?usp=sharing)[[colab]](https://colab.research.google.com/drive/1JIGWzdnYoDrzKpTDMt6Q4U1XBzrP7kkn?usp=sharing) |  
 | 3. Transformers          |TBD  |
 | 4. Teaching Machines to Perceive the World|TBD |
 | 5. NLP in Rwanda | TBD |
