@@ -6,7 +6,7 @@ This repository is the host of the materials of Deep Learning Course that will b
 
 Instructed by Gedeon Muhawenayo and Jean de Dieu Nyandwi.
 
-## Course Outlines and Materials
+## Course Outline and Materials
 
 | Sessions                 | Materials              |             
 | -----------              | -----------            |
